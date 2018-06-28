@@ -8,8 +8,11 @@ Here, you are going to find:
 
 - _Analysis.html_ shows R code used to generate the analyses presented in the paper;
 - _Data collection form.xlsx_ was used to collect time and correctness for each task/trial;
-- _Questionnaire 01.pdf_ shows the questions used to characterise respondents;
-- _Questionnaire 02.pdf_ shows the questions used to evaluate satisfaction;
+- _Questionnaire 01.pdf_ shows the questions used to characterise respondents (in portuguese only);
+- _Questionnaire 02.pdf_ shows the questions used to evaluate satisfaction (in portuguese only);
 - _dataset.csv/json_ consists of the observations evaluated in the experiment;
 - _demographics.csv/json_ consists of responses from the Questionnaire 01;
-- _feedback.csv/json_ consists of responses from the Questionnaire 02.
+- _feedback.csv/json_ consists of responses from the Questionnaire 02;
+- _Participant consent form.pdf_ is the informed consent form (in portuguese only);
+- _Tasks.pdf_ lists the order of task execution by participants (in portuguese only);
+- _Introduction script.pdf_ describes the experiment to participants (in portuguese only).
