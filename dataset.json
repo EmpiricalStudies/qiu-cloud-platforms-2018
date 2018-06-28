@@ -1,0 +1,1066 @@
+[
+ {
+   "participant": 11,
+   "platform": "AWS",
+   "task": 4,
+   "correct": "yes",
+   "seconds": 153
+ },
+ {
+   "participant": 11,
+   "platform": "AWS",
+   "task": 7,
+   "correct": "yes",
+   "seconds": 201
+ },
+ {
+   "participant": 11,
+   "platform": "AWS",
+   "task": 3,
+   "correct": "yes",
+   "seconds": 80
+ },
+ {
+   "participant": 11,
+   "platform": "AWS",
+   "task": 5,
+   "correct": "yes",
+   "seconds": 90
+ },
+ {
+   "participant": 11,
+   "platform": "AWS",
+   "task": 2,
+   "correct": "yes",
+   "seconds": 120
+ },
+ {
+   "participant": 11,
+   "platform": "AWS",
+   "task": 6,
+   "correct": "yes",
+   "seconds": 60
+ },
+ {
+   "participant": 11,
+   "platform": "AWS",
+   "task": 1,
+   "correct": "yes",
+   "seconds": 55
+ },
+ {
+   "participant": 10,
+   "platform": "AWS",
+   "task": 2,
+   "correct": "yes",
+   "seconds": 183
+ },
+ {
+   "participant": 10,
+   "platform": "AWS",
+   "task": 3,
+   "correct": "yes",
+   "seconds": 105
+ },
+ {
+   "participant": 10,
+   "platform": "AWS",
+   "task": 7,
+   "correct": "yes",
+   "seconds": 236
+ },
+ {
+   "participant": 10,
+   "platform": "AWS",
+   "task": 1,
+   "correct": "yes",
+   "seconds": 77
+ },
+ {
+   "participant": 10,
+   "platform": "AWS",
+   "task": 6,
+   "correct": "yes",
+   "seconds": 111
+ },
+ {
+   "participant": 10,
+   "platform": "AWS",
+   "task": 5,
+   "correct": "yes",
+   "seconds": 93
+ },
+ {
+   "participant": 9,
+   "platform": "AWS",
+   "task": 1,
+   "correct": "yes",
+   "seconds": 567
+ },
+ {
+   "participant": 9,
+   "platform": "AWS",
+   "task": 5,
+   "correct": "yes",
+   "seconds": 409
+ },
+ {
+   "participant": 9,
+   "platform": "AWS",
+   "task": 2,
+   "correct": "yes",
+   "seconds": 183
+ },
+ {
+   "participant": 9,
+   "platform": "AWS",
+   "task": 6,
+   "correct": "yes",
+   "seconds": 149
+ },
+ {
+   "participant": 9,
+   "platform": "AWS",
+   "task": 4,
+   "correct": "yes",
+   "seconds": 207
+ },
+ {
+   "participant": 9,
+   "platform": "AWS",
+   "task": 3,
+   "correct": "yes",
+   "seconds": 154
+ },
+ {
+   "participant": 9,
+   "platform": "AWS",
+   "task": 7,
+   "correct": "yes",
+   "seconds": 220
+ },
+ {
+   "participant": 8,
+   "platform": "AWS",
+   "task": 2,
+   "correct": "yes",
+   "seconds": 326
+ },
+ {
+   "participant": 8,
+   "platform": "AWS",
+   "task": 7,
+   "correct": "yes",
+   "seconds": 418
+ },
+ {
+   "participant": 8,
+   "platform": "AWS",
+   "task": 3,
+   "correct": "yes",
+   "seconds": 42
+ },
+ {
+   "participant": 8,
+   "platform": "AWS",
+   "task": 1,
+   "correct": "yes",
+   "seconds": 30
+ },
+ {
+   "participant": 8,
+   "platform": "AWS",
+   "task": 5,
+   "correct": "yes",
+   "seconds": 64
+ },
+ {
+   "participant": 8,
+   "platform": "AWS",
+   "task": 6,
+   "correct": "yes",
+   "seconds": 69
+ },
+ {
+   "participant": 8,
+   "platform": "AWS",
+   "task": 4,
+   "correct": "yes",
+   "seconds": 134
+ },
+ {
+   "participant": 7,
+   "platform": "AWS",
+   "task": 6,
+   "correct": "yes",
+   "seconds": 222
+ },
+ {
+   "participant": 7,
+   "platform": "AWS",
+   "task": 2,
+   "correct": "yes",
+   "seconds": 167
+ },
+ {
+   "participant": 7,
+   "platform": "AWS",
+   "task": 5,
+   "correct": "yes",
+   "seconds": 212
+ },
+ {
+   "participant": 7,
+   "platform": "AWS",
+   "task": 3,
+   "correct": "yes",
+   "seconds": 133
+ },
+ {
+   "participant": 7,
+   "platform": "AWS",
+   "task": 7,
+   "correct": "yes",
+   "seconds": 144
+ },
+ {
+   "participant": 7,
+   "platform": "AWS",
+   "task": 4,
+   "correct": "yes",
+   "seconds": 93
+ },
+ {
+   "participant": 7,
+   "platform": "AWS",
+   "task": 1,
+   "correct": "yes",
+   "seconds": 103
+ },
+ {
+   "participant": 6,
+   "platform": "AWS",
+   "task": 5,
+   "correct": "no",
+   "seconds": 595
+ },
+ {
+   "participant": 6,
+   "platform": "AWS",
+   "task": 3,
+   "correct": "yes",
+   "seconds": 433
+ },
+ {
+   "participant": 6,
+   "platform": "AWS",
+   "task": 2,
+   "correct": "yes",
+   "seconds": 175
+ },
+ {
+   "participant": 6,
+   "platform": "AWS",
+   "task": 1,
+   "correct": "yes",
+   "seconds": 189
+ },
+ {
+   "participant": 6,
+   "platform": "AWS",
+   "task": 7,
+   "correct": "no",
+   "seconds": 1104
+ },
+ {
+   "participant": 6,
+   "platform": "AWS",
+   "task": 4,
+   "correct": "no",
+   "seconds": 290
+ },
+ {
+   "participant": 6,
+   "platform": "AWS",
+   "task": 6,
+   "correct": "yes",
+   "seconds": 189
+ },
+ {
+   "participant": 5,
+   "platform": "AWS",
+   "task": 3,
+   "correct": "yes",
+   "seconds": 142
+ },
+ {
+   "participant": 5,
+   "platform": "AWS",
+   "task": 2,
+   "correct": "no",
+   "seconds": 109
+ },
+ {
+   "participant": 5,
+   "platform": "AWS",
+   "task": 1,
+   "correct": "yes",
+   "seconds": 97
+ },
+ {
+   "participant": 5,
+   "platform": "AWS",
+   "task": 5,
+   "correct": "yes",
+   "seconds": 109
+ },
+ {
+   "participant": 5,
+   "platform": "AWS",
+   "task": 6,
+   "correct": "yes",
+   "seconds": 70
+ },
+ {
+   "participant": 5,
+   "platform": "AWS",
+   "task": 7,
+   "correct": "yes",
+   "seconds": 150
+ },
+ {
+   "participant": 5,
+   "platform": "AWS",
+   "task": 4,
+   "correct": "yes",
+   "seconds": 113
+ },
+ {
+   "participant": 4,
+   "platform": "AWS",
+   "task": 5,
+   "correct": "yes",
+   "seconds": 230
+ },
+ {
+   "participant": 4,
+   "platform": "AWS",
+   "task": 6,
+   "correct": "yes",
+   "seconds": 120
+ },
+ {
+   "participant": 4,
+   "platform": "AWS",
+   "task": 3,
+   "correct": "yes",
+   "seconds": 108
+ },
+ {
+   "participant": 4,
+   "platform": "AWS",
+   "task": 7,
+   "correct": "yes",
+   "seconds": 400
+ },
+ {
+   "participant": 4,
+   "platform": "AWS",
+   "task": 2,
+   "correct": "yes",
+   "seconds": 230
+ },
+ {
+   "participant": 4,
+   "platform": "AWS",
+   "task": 4,
+   "correct": "yes",
+   "seconds": 220
+ },
+ {
+   "participant": 4,
+   "platform": "AWS",
+   "task": 1,
+   "correct": "yes",
+   "seconds": 140
+ },
+ {
+   "participant": 3,
+   "platform": "AWS",
+   "task": 2,
+   "correct": "yes",
+   "seconds": 787
+ },
+ {
+   "participant": 3,
+   "platform": "AWS",
+   "task": 1,
+   "correct": "yes",
+   "seconds": 262
+ },
+ {
+   "participant": 3,
+   "platform": "AWS",
+   "task": 7,
+   "correct": "yes",
+   "seconds": 1030
+ },
+ {
+   "participant": 3,
+   "platform": "AWS",
+   "task": 5,
+   "correct": "yes",
+   "seconds": 180
+ },
+ {
+   "participant": 3,
+   "platform": "AWS",
+   "task": 4,
+   "correct": "yes",
+   "seconds": 216
+ },
+ {
+   "participant": 3,
+   "platform": "AWS",
+   "task": 6,
+   "correct": "yes",
+   "seconds": 85
+ },
+ {
+   "participant": 3,
+   "platform": "AWS",
+   "task": 3,
+   "correct": "yes",
+   "seconds": 162
+ },
+ {
+   "participant": 2,
+   "platform": "AWS",
+   "task": 3,
+   "correct": "yes",
+   "seconds": 344
+ },
+ {
+   "participant": 2,
+   "platform": "AWS",
+   "task": 6,
+   "correct": "yes",
+   "seconds": 400
+ },
+ {
+   "participant": 2,
+   "platform": "AWS",
+   "task": 4,
+   "correct": "no",
+   "seconds": 128
+ },
+ {
+   "participant": 2,
+   "platform": "AWS",
+   "task": 5,
+   "correct": "yes",
+   "seconds": 268
+ },
+ {
+   "participant": 2,
+   "platform": "AWS",
+   "task": 2,
+   "correct": "yes",
+   "seconds": 195
+ },
+ {
+   "participant": 2,
+   "platform": "AWS",
+   "task": 1,
+   "correct": "yes",
+   "seconds": 138
+ },
+ {
+   "participant": 2,
+   "platform": "AWS",
+   "task": 7,
+   "correct": "no",
+   "seconds": 120
+ },
+ {
+   "participant": 1,
+   "platform": "AWS",
+   "task": 2,
+   "correct": "yes",
+   "seconds": 310
+ },
+ {
+   "participant": 1,
+   "platform": "AWS",
+   "task": 7,
+   "correct": "yes",
+   "seconds": 450
+ },
+ {
+   "participant": 1,
+   "platform": "AWS",
+   "task": 1,
+   "correct": "yes",
+   "seconds": 210
+ },
+ {
+   "participant": 1,
+   "platform": "AWS",
+   "task": 6,
+   "correct": "yes",
+   "seconds": 150
+ },
+ {
+   "participant": 1,
+   "platform": "AWS",
+   "task": 3,
+   "correct": "yes",
+   "seconds": 190
+ },
+ {
+   "participant": 1,
+   "platform": "AWS",
+   "task": 5,
+   "correct": "yes",
+   "seconds": 175
+ },
+ {
+   "participant": 1,
+   "platform": "AWS",
+   "task": 4,
+   "correct": "yes",
+   "seconds": 270
+ },
+ {
+   "participant": 11,
+   "platform": "Azure",
+   "task": 4,
+   "correct": "yes",
+   "seconds": 605
+ },
+ {
+   "participant": 11,
+   "platform": "Azure",
+   "task": 7,
+   "correct": "yes",
+   "seconds": 427
+ },
+ {
+   "participant": 11,
+   "platform": "Azure",
+   "task": 5,
+   "correct": "yes",
+   "seconds": 150
+ },
+ {
+   "participant": 11,
+   "platform": "Azure",
+   "task": 2,
+   "correct": "yes",
+   "seconds": 107
+ },
+ {
+   "participant": 11,
+   "platform": "Azure",
+   "task": 6,
+   "correct": "yes",
+   "seconds": 135
+ },
+ {
+   "participant": 11,
+   "platform": "Azure",
+   "task": 1,
+   "correct": "yes",
+   "seconds": 84
+ },
+ {
+   "participant": 10,
+   "platform": "Azure",
+   "task": 2,
+   "correct": "yes",
+   "seconds": 445
+ },
+ {
+   "participant": 10,
+   "platform": "Azure",
+   "task": 3,
+   "correct": "yes",
+   "seconds": 327
+ },
+ {
+   "participant": 10,
+   "platform": "Azure",
+   "task": 7,
+   "correct": "yes",
+   "seconds": 1037
+ },
+ {
+   "participant": 10,
+   "platform": "Azure",
+   "task": 1,
+   "correct": "no",
+   "seconds": 234
+ },
+ {
+   "participant": 10,
+   "platform": "Azure",
+   "task": 6,
+   "correct": "yes",
+   "seconds": 127
+ },
+ {
+   "participant": 10,
+   "platform": "Azure",
+   "task": 5,
+   "correct": "no",
+   "seconds": 181
+ },
+ {
+   "participant": 10,
+   "platform": "Azure",
+   "task": 4,
+   "correct": "yes",
+   "seconds": 208
+ },
+ {
+   "participant": 9,
+   "platform": "Azure",
+   "task": 1,
+   "correct": "yes",
+   "seconds": 288
+ },
+ {
+   "participant": 9,
+   "platform": "Azure",
+   "task": 5,
+   "correct": "yes",
+   "seconds": 564
+ },
+ {
+   "participant": 9,
+   "platform": "Azure",
+   "task": 2,
+   "correct": "yes",
+   "seconds": 147
+ },
+ {
+   "participant": 9,
+   "platform": "Azure",
+   "task": 6,
+   "correct": "yes",
+   "seconds": 379
+ },
+ {
+   "participant": 9,
+   "platform": "Azure",
+   "task": 4,
+   "correct": "yes",
+   "seconds": 281
+ },
+ {
+   "participant": 9,
+   "platform": "Azure",
+   "task": 3,
+   "correct": "yes",
+   "seconds": 113
+ },
+ {
+   "participant": 9,
+   "platform": "Azure",
+   "task": 7,
+   "correct": "yes",
+   "seconds": 213
+ },
+ {
+   "participant": 8,
+   "platform": "Azure",
+   "task": 2,
+   "correct": "yes",
+   "seconds": 272
+ },
+ {
+   "participant": 8,
+   "platform": "Azure",
+   "task": 7,
+   "correct": "yes",
+   "seconds": 920
+ },
+ {
+   "participant": 8,
+   "platform": "Azure",
+   "task": 3,
+   "correct": "yes",
+   "seconds": 172
+ },
+ {
+   "participant": 8,
+   "platform": "Azure",
+   "task": 1,
+   "correct": "yes",
+   "seconds": 143
+ },
+ {
+   "participant": 8,
+   "platform": "Azure",
+   "task": 5,
+   "correct": "yes",
+   "seconds": 374
+ },
+ {
+   "participant": 8,
+   "platform": "Azure",
+   "task": 6,
+   "correct": "yes",
+   "seconds": 265
+ },
+ {
+   "participant": 8,
+   "platform": "Azure",
+   "task": 4,
+   "correct": "yes",
+   "seconds": 152
+ },
+ {
+   "participant": 7,
+   "platform": "Azure",
+   "task": 6,
+   "correct": "yes",
+   "seconds": 484
+ },
+ {
+   "participant": 7,
+   "platform": "Azure",
+   "task": 2,
+   "correct": "yes",
+   "seconds": 203
+ },
+ {
+   "participant": 7,
+   "platform": "Azure",
+   "task": 5,
+   "correct": "yes",
+   "seconds": 270
+ },
+ {
+   "participant": 7,
+   "platform": "Azure",
+   "task": 3,
+   "correct": "yes",
+   "seconds": 111
+ },
+ {
+   "participant": 7,
+   "platform": "Azure",
+   "task": 7,
+   "correct": "yes",
+   "seconds": 774
+ },
+ {
+   "participant": 7,
+   "platform": "Azure",
+   "task": 4,
+   "correct": "yes",
+   "seconds": 150
+ },
+ {
+   "participant": 7,
+   "platform": "Azure",
+   "task": 1,
+   "correct": "yes",
+   "seconds": 106
+ },
+ {
+   "participant": 6,
+   "platform": "Azure",
+   "task": 5,
+   "correct": "yes",
+   "seconds": 827
+ },
+ {
+   "participant": 6,
+   "platform": "Azure",
+   "task": 3,
+   "correct": "yes",
+   "seconds": 326
+ },
+ {
+   "participant": 6,
+   "platform": "Azure",
+   "task": 2,
+   "correct": "yes",
+   "seconds": 398
+ },
+ {
+   "participant": 6,
+   "platform": "Azure",
+   "task": 1,
+   "correct": "yes",
+   "seconds": 222
+ },
+ {
+   "participant": 6,
+   "platform": "Azure",
+   "task": 7,
+   "correct": "yes",
+   "seconds": 433
+ },
+ {
+   "participant": 6,
+   "platform": "Azure",
+   "task": 4,
+   "correct": "yes",
+   "seconds": 249
+ },
+ {
+   "participant": 6,
+   "platform": "Azure",
+   "task": 6,
+   "correct": "no",
+   "seconds": 219
+ },
+ {
+   "participant": 5,
+   "platform": "Azure",
+   "task": 3,
+   "correct": "yes",
+   "seconds": 462
+ },
+ {
+   "participant": 5,
+   "platform": "Azure",
+   "task": 2,
+   "correct": "yes",
+   "seconds": 244
+ },
+ {
+   "participant": 5,
+   "platform": "Azure",
+   "task": 1,
+   "correct": "yes",
+   "seconds": 181
+ },
+ {
+   "participant": 5,
+   "platform": "Azure",
+   "task": 5,
+   "correct": "no",
+   "seconds": 241
+ },
+ {
+   "participant": 5,
+   "platform": "Azure",
+   "task": 6,
+   "correct": "yes",
+   "seconds": 169
+ },
+ {
+   "participant": 5,
+   "platform": "Azure",
+   "task": 7,
+   "correct": "no",
+   "seconds": 214
+ },
+ {
+   "participant": 5,
+   "platform": "Azure",
+   "task": 4,
+   "correct": "yes",
+   "seconds": 231
+ },
+ {
+   "participant": 4,
+   "platform": "Azure",
+   "task": 5,
+   "correct": "yes",
+   "seconds": 660
+ },
+ {
+   "participant": 4,
+   "platform": "Azure",
+   "task": 6,
+   "correct": "yes",
+   "seconds": 220
+ },
+ {
+   "participant": 4,
+   "platform": "Azure",
+   "task": 3,
+   "correct": "yes",
+   "seconds": 145
+ },
+ {
+   "participant": 4,
+   "platform": "Azure",
+   "task": 7,
+   "correct": "yes",
+   "seconds": 227
+ },
+ {
+   "participant": 4,
+   "platform": "Azure",
+   "task": 2,
+   "correct": "yes",
+   "seconds": 180
+ },
+ {
+   "participant": 4,
+   "platform": "Azure",
+   "task": 4,
+   "correct": "yes",
+   "seconds": 210
+ },
+ {
+   "participant": 4,
+   "platform": "Azure",
+   "task": 1,
+   "correct": "yes",
+   "seconds": 160
+ },
+ {
+   "participant": 3,
+   "platform": "Azure",
+   "task": 2,
+   "correct": "yes",
+   "seconds": 1276
+ },
+ {
+   "participant": 3,
+   "platform": "Azure",
+   "task": 1,
+   "correct": "yes",
+   "seconds": 200
+ },
+ {
+   "participant": 3,
+   "platform": "Azure",
+   "task": 7,
+   "correct": "yes",
+   "seconds": 658
+ },
+ {
+   "participant": 3,
+   "platform": "Azure",
+   "task": 5,
+   "correct": "yes",
+   "seconds": 335
+ },
+ {
+   "participant": 3,
+   "platform": "Azure",
+   "task": 4,
+   "correct": "yes",
+   "seconds": 220
+ },
+ {
+   "participant": 3,
+   "platform": "Azure",
+   "task": 6,
+   "correct": "no",
+   "seconds": 300
+ },
+ {
+   "participant": 3,
+   "platform": "Azure",
+   "task": 3,
+   "correct": "no",
+   "seconds": 222
+ },
+ {
+   "participant": 2,
+   "platform": "Azure",
+   "task": 3,
+   "correct": "no",
+   "seconds": 881
+ },
+ {
+   "participant": 2,
+   "platform": "Azure",
+   "task": 6,
+   "correct": "no",
+   "seconds": 534
+ },
+ {
+   "participant": 2,
+   "platform": "Azure",
+   "task": 4,
+   "correct": "no",
+   "seconds": 525
+ },
+ {
+   "participant": 2,
+   "platform": "Azure",
+   "task": 5,
+   "correct": "no",
+   "seconds": 276
+ },
+ {
+   "participant": 2,
+   "platform": "Azure",
+   "task": 2,
+   "correct": "no",
+   "seconds": 244
+ },
+ {
+   "participant": 2,
+   "platform": "Azure",
+   "task": 1,
+   "correct": "yes",
+   "seconds": 202
+ },
+ {
+   "participant": 2,
+   "platform": "Azure",
+   "task": 7,
+   "correct": "no",
+   "seconds": 140
+ },
+ {
+   "participant": 1,
+   "platform": "Azure",
+   "task": 2,
+   "correct": "yes",
+   "seconds": 295
+ },
+ {
+   "participant": 1,
+   "platform": "Azure",
+   "task": 7,
+   "correct": "yes",
+   "seconds": 357
+ },
+ {
+   "participant": 1,
+   "platform": "Azure",
+   "task": 1,
+   "correct": "yes",
+   "seconds": 160
+ },
+ {
+   "participant": 1,
+   "platform": "Azure",
+   "task": 6,
+   "correct": "yes",
+   "seconds": 152
+ },
+ {
+   "participant": 1,
+   "platform": "Azure",
+   "task": 3,
+   "correct": "yes",
+   "seconds": 160
+ },
+ {
+   "participant": 1,
+   "platform": "Azure",
+   "task": 5,
+   "correct": "yes",
+   "seconds": 226
+ },
+ {
+   "participant": 1,
+   "platform": "Azure",
+   "task": 4,
+   "correct": "yes",
+   "seconds": 163
+ }
+]

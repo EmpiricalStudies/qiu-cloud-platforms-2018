@@ -1,0 +1,90 @@
+[
+ {
+   "id": 5,
+   "trainingOK": 5,
+   "easeTasks": 4,
+   "easiestPlatform": "AWS",
+   "bestGUI": "AWS",
+   "favoritePlatform": "AWS"
+ },
+ {
+   "id": 11,
+   "trainingOK": 3,
+   "easeTasks": 3,
+   "easiestPlatform": "AWS",
+   "bestGUI": "AWS",
+   "favoritePlatform": "AWS"
+ },
+ {
+   "id": 7,
+   "trainingOK": 3,
+   "easeTasks": 3,
+   "easiestPlatform": "Could not observe significant differences",
+   "bestGUI": "AWS",
+   "favoritePlatform": "AWS"
+ },
+ {
+   "id": 8,
+   "trainingOK": 5,
+   "easeTasks": 4,
+   "easiestPlatform": "AWS",
+   "bestGUI": "AWS",
+   "favoritePlatform": "AWS"
+ },
+ {
+   "id": 1,
+   "trainingOK": 5,
+   "easeTasks": 4,
+   "easiestPlatform": "AWS",
+   "bestGUI": "Azure",
+   "favoritePlatform": "AWS"
+ },
+ {
+   "id": 4,
+   "trainingOK": 5,
+   "easeTasks": 5,
+   "easiestPlatform": "AWS",
+   "bestGUI": "AWS",
+   "favoritePlatform": "AWS"
+ },
+ {
+   "id": 10,
+   "trainingOK": 4,
+   "easeTasks": 3,
+   "easiestPlatform": "AWS",
+   "bestGUI": "AWS",
+   "favoritePlatform": "AWS"
+ },
+ {
+   "id": 9,
+   "trainingOK": 5,
+   "easeTasks": 3,
+   "easiestPlatform": "AWS",
+   "bestGUI": "Azure",
+   "favoritePlatform": "Azure"
+ },
+ {
+   "id": 2,
+   "trainingOK": 3,
+   "easeTasks": 2,
+   "easiestPlatform": "AWS",
+   "bestGUI": "Azure",
+   "favoritePlatform": "AWS"
+ },
+ {
+   "id": 6,
+   "trainingOK": 4,
+   "easeTasks": 2,
+   "easiestPlatform": "Azure",
+   "bestGUI": "Azure",
+   "favoritePlatform": "Azure"
+ },
+ {
+   "id": 3,
+   "trainingOK": 5,
+   "easeTasks": 4,
+   "easiestPlatform": "AWS",
+   "bestGUI": "AWS",
+   "favoritePlatform": "AWS"
+ }
+]

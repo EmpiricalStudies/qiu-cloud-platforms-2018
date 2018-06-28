@@ -1,0 +1,90 @@
+[
+ {
+   "id": 8,
+   "age": 22,
+   "gender": "Male",
+   "cloudKnowledge": 1,
+   "createAWSvm": "No",
+   "createAZUREvm": "No"
+ },
+ {
+   "id": 7,
+   "age": 23,
+   "gender": "Male",
+   "cloudKnowledge": 1,
+   "createAWSvm": "No",
+   "createAZUREvm": "No"
+ },
+ {
+   "id": 5,
+   "age": 19,
+   "gender": "Male",
+   "cloudKnowledge": 2,
+   "createAWSvm": "No",
+   "createAZUREvm": "No"
+ },
+ {
+   "id": 6,
+   "age": 23,
+   "gender": "Prefer not to say",
+   "cloudKnowledge": 2,
+   "createAWSvm": "No",
+   "createAZUREvm": "No"
+ },
+ {
+   "id": 4,
+   "age": 22,
+   "gender": "Male",
+   "cloudKnowledge": 3,
+   "createAWSvm": "No",
+   "createAZUREvm": "Yes"
+ },
+ {
+   "id": 2,
+   "age": 22,
+   "gender": "Male",
+   "cloudKnowledge": 2,
+   "createAWSvm": "No",
+   "createAZUREvm": "Yes"
+ },
+ {
+   "id": 11,
+   "age": 20,
+   "gender": "Male",
+   "cloudKnowledge": 1,
+   "createAWSvm": "Yes",
+   "createAZUREvm": "Yes"
+ },
+ {
+   "id": 1,
+   "age": 21,
+   "gender": "Male",
+   "cloudKnowledge": 1,
+   "createAWSvm": "Yes",
+   "createAZUREvm": "Yes"
+ },
+ {
+   "id": 10,
+   "age": 20,
+   "gender": "Male",
+   "cloudKnowledge": 2,
+   "createAWSvm": "No",
+   "createAZUREvm": "No"
+ },
+ {
+   "id": 3,
+   "age": 20,
+   "gender": "Prefer not to say",
+   "cloudKnowledge": 1,
+   "createAWSvm": "Yes",
+   "createAZUREvm": "No"
+ },
+ {
+   "id": 9,
+   "age": 19,
+   "gender": "Male",
+   "cloudKnowledge": 1,
+   "createAWSvm": "Yes",
+   "createAZUREvm": "Yes"
+ }
+]
