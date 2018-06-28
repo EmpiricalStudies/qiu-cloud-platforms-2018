@@ -6,10 +6,10 @@ This repository stores additional material to support the paper submitted to [CA
 
 Here, you are going to find:
 
-- _Analysis.html_ that shows R code used to generate the analyses presented in the paper;
-- _Data collection form.xlsx_ that was used to collect time and correctness for each task/trial;
-- _Questionnaire 01.pdf_ that shows the questions used to characterise respondents;
-- _Questionnaire 02.pdf_ that shows the questions used to evaluate satisfaction;
-- _dataset.csv/json_ that consists of the observations evaluated in the experiment;
-- _demographics.csv/json_ that consists of responses from the Questionnaire 01;
-- _feedback.csv/json_ that consists of responses from the Questionnaire 02.
+- _Analysis.html_ shows R code used to generate the analyses presented in the paper;
+- _Data collection form.xlsx_ was used to collect time and correctness for each task/trial;
+- _Questionnaire 01.pdf_ shows the questions used to characterise respondents;
+- _Questionnaire 02.pdf_ shows the questions used to evaluate satisfaction;
+- _dataset.csv/json_ consists of the observations evaluated in the experiment;
+- _demographics.csv/json_ consists of responses from the Questionnaire 01;
+- _feedback.csv/json_ consists of responses from the Questionnaire 02.
